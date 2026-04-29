@@ -1,5 +1,4 @@
 # Nuclear-Analizer
-:::writing
 # ☢ Nuclear AI Monitor
 AI‑Driven Radiation Monitoring & Anomaly Detection System
 
